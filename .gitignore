@@ -1,6 +1,7 @@
 node_modules/
 jsonServer.js/
 .expo/
+jsonServer.js/
 dist/
 npm-debug.*
 *.jks
